@@ -125,23 +125,3 @@ Projeto em desenvolvimento para cálculo de Value at Risk por diferentes metodol
 
 Projeto acadêmico de aprimoramento de sinais de fala utilizando redes neurais e representações no domínio da frequência. Envolve STFT, máscaras espectrais, U-Net, reconstrução de áudio e avaliação por métricas objetivas.
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasMath5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMath5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
