@@ -32,6 +32,7 @@ Meu foco atual está em desenvolver projetos relacionados a risco de mercado, vo
 - Risco de mercado
 - Análise quantitativa
 - Modelagem matemática
+- Derivativos
 - Value at Risk, stress testing e backtesting
 - Automação de rotinas financeiras
 - Ciência de dados aplicada ao mercado financeiro
