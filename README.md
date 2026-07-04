@@ -2,7 +2,7 @@
 
 **`Engenharia • Python • Dados • Risco Financeiro`**
 
-Me chamo Lucas Silva, sou estudante de Engenharia Elétrica na Escola Politécnica da USP, com interesse em análise quantitativa, risco financeiro, automação e ciência de dados.
+Me chamo Lucas Silva, sou estudante de Engenharia Elétrica na Escola Politécnica da USP, com interesse em análise quantitativa, risco financeiro, automação, matemática e ciência de dados.
 
 Atualmente atuo no mercado financeiro, com experiência em rotinas de Middle Office, consolidação de dados, automação de processos e apoio à análise de carteiras. Tenho trabalhado principalmente com Python, Excel, APIs e tratamento de dados financeiros, buscando transformar processos manuais em soluções mais robustas, reproduzíveis e escaláveis.
 
@@ -31,7 +31,7 @@ Meu foco atual está em desenvolver projetos relacionados a risco de mercado, vo
 
 - Risco de mercado
 - Análise quantitativa
-- Modelagem de volatilidade
+- Modelagem matemática
 - Value at Risk, stress testing e backtesting
 - Automação de rotinas financeiras
 - Ciência de dados aplicada ao mercado financeiro
