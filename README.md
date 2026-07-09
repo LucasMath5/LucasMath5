@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Lucas Silva
 
-**`Engenharia • Python • Dados • Risco Financeiro`**
+**`Engenharia • Python • Dados • Risco Financeiro • Machine Learning`**
 
-Me chamo Lucas Silva, sou estudante de Engenharia Elétrica na Escola Politécnica da USP, com interesse em análise quantitativa, risco financeiro, automação, matemática e ciência de dados.
+Me chamo Lucas Silva, sou estudante de Engenharia Elétrica na Escola Politécnica da USP, com interesse em ciência de dados, automação, modelagem estatística, machine learning e aplicações quantitativas em finanças.
 
-Atualmente atuo no mercado financeiro, com experiência em rotinas de Middle Office, consolidação de dados, automação de processos e apoio à análise de carteiras. Tenho trabalhado principalmente com Python, Excel, APIs e tratamento de dados financeiros, buscando transformar processos manuais em soluções mais robustas, reproduzíveis e escaláveis.
+Atualmente atuo no mercado financeiro, com experiência em rotinas de Middle Office, consolidação e validação de dados, automação de processos, integração com APIs e apoio à análise de carteiras. Tenho trabalhado principalmente com Python, Excel, SQL, APIs e tratamento de dados financeiros, buscando transformar processos manuais em soluções mais robustas, reproduzíveis e escaláveis.
 
-Meu foco atual está em desenvolver projetos relacionados a risco de mercado, volatilidade, VaR, estatística aplicada e modelagem quantitativa. Também tenho experiência acadêmica com aprendizado de máquina e processamento de sinais, especialmente em aplicações de denoising de áudio.
+Meu foco atual está no desenvolvimento de projetos que conectam engenharia, dados e modelagem quantitativa, incluindo risco de mercado, volatilidade, Value at Risk, estatística aplicada, séries temporais e machine learning. Também tenho experiência acadêmica com redes neurais e processamento de sinais, especialmente em aplicações de denoising de áudio.
 
 <p align="left">
     <a href="https://github.com/LucasMath5?tab=repositories&sort=stargazers">
@@ -29,14 +29,12 @@ Meu foco atual está em desenvolver projetos relacionados a risco de mercado, vo
 
 ### 🧠 Áreas de Interesse
 
-- Risco de mercado
-- Análise quantitativa
-- Modelagem matemática
+- Análise quantitativa e modelagem estatística
+- Ciência de dados aplicada a negócios e finanças
+- Machine Learning aplicado a sinais, séries temporais e dados financeiros
 - Derivativos
 - Value at Risk, stress testing e backtesting
 - Automação de rotinas financeiras
-- Ciência de dados aplicada ao mercado financeiro
-- Machine Learning e processamento de sinais
 
 ---
 
