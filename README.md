@@ -2,8 +2,6 @@
 
 **`Engenharia Elétrica • Python • Dados • Finanças Quantitativas`**
 
-Estudante de Engenharia Elétrica na Escola Politécnica da USP e profissional do mercado financeiro. Desenvolvo projetos em Python voltados à análise de dados, automação, modelagem quantitativa e processamento de documentos.
-
 ### 📌 Projetos
 
 - [DocExtract Studio](https://github.com/LucasMath5/DocExtract-Studio) — aplicação para extração e organização de informações de documentos.
