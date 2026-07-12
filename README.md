@@ -1,5 +1,3 @@
-# 👨🏻‍💻 Lucas Silva
-
 **`Engenharia Elétrica • Python • Dados • Finanças Quantitativas`**
 
 ### 📌 Projetos
